@@ -1,0 +1,36 @@
+body {
+    background: white;
+    height: 100vh;
+    background-color: tomato;
+    background-image: url(https://img.wallpapic-br.com/i2491-537-811/medium/terra-planeta-mundo-espaco-imagem-de-fundo.jpg);
+    background-repeat: repeat;
+    /* -webkit-background-clip: text; */
+    color: transparent;
+}
+
+#load{
+    position:absolute;
+    width: 600px;
+    height: 36px;
+    left: 50%;
+    top: 40%;
+    margin-left: -300px;
+    overflow: visible;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    cursor: default;
+}
+p{
+   color: white;
+   font-size: 300px;
+   display: flex;
+   justify-content: center;
+   font-weight: bold;
+   background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSohZi1OKWJpbt7lXTzyoAG2gC_9Q6rBlJej8vEfBtY&s);
+   background-size: 10%;
+   background-clip: text;
+   -webkit-background-clip: text;
+   color: transparent;;
+}
